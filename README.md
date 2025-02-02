@@ -20,7 +20,7 @@ Prerequisites:
 
 Usage:
 
-    python3 statuschecker.py input.txt -o output_folder
+    python3 WebPulse.py input.txt -o output_folder
 
 Arguments:
 
@@ -30,7 +30,7 @@ Arguments:
 
 Example
 
-    python3 statuschecker.py domains.txt -o results
+    python3 WebPulse.py domains.txt -o results
 
 This will process domains.txt and save the results in the results folder.
 
